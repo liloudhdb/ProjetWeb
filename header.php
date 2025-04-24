@@ -12,8 +12,8 @@
 
             <div class="collapse navbar-collapse justify-content-end" id="navbarECE">
                 <div class="d-flex gap-2">
-                <a href="index.php" class="btn btn-outline-primary">Accueil</a>
-                <a href="add_vdece.php" class="btn btn-primary">+ Poster</a>
+                    <a href="index.php" class="btn btn-outline-primary">Accueil</a>
+                    <a href="add_vdece.php" class="btn btn-primary">+ Poster</a>
                 </div>
             </div>
         </div>
