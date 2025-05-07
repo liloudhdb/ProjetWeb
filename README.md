@@ -25,3 +25,10 @@ Projet réalisé dans le cadre du cours de Programmation Web Dynamique (ING2 - 2
 1. Cloner le dépôt :
    ```bash
    git clone git@github.com:liloudhdb/ProjetWeb.git
+
+## Auteurs
+
+Anaïs Renonciat 
+Bartolomeo de Felice 
+Lilou de Heaulme de Bouscocq
+Clément Tirilly
