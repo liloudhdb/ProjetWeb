@@ -58,7 +58,7 @@ Des captures d’écran sont disponibles dans le document complémentaire (`docu
 
 ## Auteurs
 
-Anaïs Renoncia 
+Anaïs Renonciat 
 Bartolomeo de Felice 
 Lilou de Heaulme de Bouscocq
 Clément Tirilly
